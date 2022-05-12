@@ -11,4 +11,4 @@ For my final Capstone with Thinkful, I analyzed delivery bakery sales data in Py
 
 This [dataset](https://https://www.kaggle.com/datasets/hosubjeong/bakery-sales) is from Kaggle.
  
-This analysis was done in [this Colab notebook](https://colab.research.google.com/drive/1LGinMhg8_ykUVYab15Gwu-s-zGnvkki4?usp=sharing)
+This analysis was done in [this](https://colab.research.google.com/drive/1LGinMhg8_ykUVYab15Gwu-s-zGnvkki4?usp=sharing) Colab Notebook.
