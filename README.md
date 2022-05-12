@@ -1,4 +1,4 @@
-# ThinfulCapstone3
+# Thinkful_Capstone_3
 For my final Capstone with Thinkful, I analyzed delivery bakery sales data in Python.
   This data is for a small bakery in **Dongmyeon, S. Korea** that started offering delivery on a third-party platform called Beamin in July 2019 and saw sales spike during the COVID-19 pandemic. 
 
@@ -11,4 +11,4 @@ For my final Capstone with Thinkful, I analyzed delivery bakery sales data in Py
 
 This [dataset](https://https://www.kaggle.com/datasets/hosubjeong/bakery-sales) is from Kaggle.
  
-This analysis was done in a Colab notebook: https://colab.research.google.com/drive/1LGinMhg8_ykUVYab15Gwu-s-zGnvkki4?usp=sharing
+This analysis was done in [this Colab notebook](https://colab.research.google.com/drive/1LGinMhg8_ykUVYab15Gwu-s-zGnvkki4?usp=sharing)
